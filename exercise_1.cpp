@@ -18,10 +18,12 @@ class Int{
 		void addValue(Int, Int);
 };
 
+//dispValue defination
 void Int::dispValue(){
 	cout <<"value is: "<<value;
 }
 
+//addValue defination
 void Int::addValue(Int num1, Int num2){
 	value = num1.value+num2.value;
 }
