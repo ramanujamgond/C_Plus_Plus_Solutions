@@ -1,4 +1,4 @@
-//exercise_file1
+//exercise_file2
 //Model a tollboth scenario using class and objects
 
 #include <iostream>
