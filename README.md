@@ -17,3 +17,6 @@ This chapter is devoted to structures. It teaches us to organsie some simple var
 
 ### Chapter 5: Functions
 This chapter is dedicated to functions. A function groups a number of program statements into a unit and give it a name. Function helps to aid in the conceptual organization of a programs.
+
+### Chapter 6: Objects and Classes
+This chapter introduces the concepts of class and objects. Class is a specification or blueprint for a number of objects while an Object is an instance of a Class.
