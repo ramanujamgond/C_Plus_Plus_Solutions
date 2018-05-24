@@ -1,4 +1,4 @@
-//exercise_4.cpp
+//exercise_file4
 //Program to create an employee class and alows the user to set data for three employees.
 
 #include <iostream>
